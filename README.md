@@ -13,3 +13,9 @@
 ## Further information
 the image_editor can be used on its own via command line:
 first type in the question and then the answer
+
+### Rights and licenses
+- Fonts used are published under Open Font License on Google Fonts (please download there)
+    - [Balsamiq Sans](https://fonts.google.com/specimen/Balsamiq+Sans?query=balsamiq&preview.text_type=custom#standard-styles) by Michael Angeles
+    - [Goldman](https://fonts.google.com/specimen/Goldman?preview.text_type=custom&query=goldman#standard-styles) by Jaikishan Patel
+- Tellonym Logo and Name are protected as a trademark &trade; So please ensure not to infringe any trademark rights while using it
